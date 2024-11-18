@@ -72,7 +72,7 @@ I'm a final year Computer Science student at FAST National University of Compute
 
 ### 🎯 Internship Experience
 
-**Backend Developer Intern at Parallel Computer Networks Lab** (October 2023 - March 2023)
+**Backend Developer Intern at Parallel Computer Networks Lab** (October 2023 - March 2024)
 - Database design and implementation using PostgreSQL
 - RESTful API development with Django
 - User authentication and authorization systems
