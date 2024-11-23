@@ -11,7 +11,7 @@ I'm a final year Computer Science student at FAST National University of Compute
 
 ### 💼 Professional Experience
 
-**Backend Developer** (April 2023 - September 2023)
+**Backend Developer at Algozen** (April 2023 - September 2023)
 - Integrated and managed third-party APIs for enhanced system functionality
 - Refactored legacy codebase to implement clean architecture principles
 - Improved system scalability and reduced dependencies
